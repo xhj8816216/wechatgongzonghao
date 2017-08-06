@@ -1,4 +1,4 @@
-phpWeixin
+﻿phpWeixin
 =========
 
 使用php开发微信公众号的框架，使用此框架只需做少许修改即可开发自己的微信公众号应用。
@@ -29,4 +29,4 @@ phpWeixin
 *  class.Service.php是为wx.php服务的，你在这里定义你的业务实体类，或者你也可以使用多个单独的实体类。
 
 
-  有问题可以email:truecn@gmail.com(truecn@gmail.com)
+  
