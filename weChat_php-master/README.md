@@ -1,11 +1,11 @@
-#weChat_php
+﻿#weChat_php
 
 自己的一个微信后台代码
 ===================
 
-![]('http://mmbiz.qpic.cn/mmbiz/icv3Y2jicj1r5zVuHbibOR7ztYtd6tl8zShn0ibKxLCavToicWMuQ8iaJ9wiaK5AqB19KdDOvGXvPQibKfnFABtWIVpwtQ/0?wxfrom=5')
+![]('')
 
-欢迎大家关注我的微信公众号:[urinx](http://weixin.sogou.com/gzh?openid=oIWsFt6BhfHwKUIyFvNp6A6JEsGM)
+
 ---------------------------
 
 ###文件说明
@@ -182,9 +182,7 @@ md5加密:发送"md5:+你要加密的文字",返回32位的hash。例如:md5:123
 Note:[xx]内的内容xx是指你发送的
 
 ###主页
-http://urinx.github.io/
+
 
 ###contact me
->QQ:1336006643
->
->Wechat:google-2
+
